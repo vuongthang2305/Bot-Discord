@@ -1,4 +1,4 @@
-from PIL.Image import TRANSPOSE, frombuffer
+
 import discord
 from discord import File
 from discord import user
@@ -13,7 +13,7 @@ import datetime
 import config
 
 from discord.player import FFmpegPCMAudio
-TOKEN = 'ODg0NzQzMzA5MjIwNzk0NDI5.YTc7ag.D7Mac5y1rj2sHABE4yU_wdlZWUU'
+TOKEN = 'ODg0NzQzMzA5MjIwNzk0NDI5.YTc7ag.PxNKU525SfEGyufld_LrMT95MrQ'
 
 
 bot = commands.Bot(command_prefix = '.')
@@ -29,7 +29,7 @@ bot.lava_nodes = [{
 
 def insert(query):
     con = None
-    path = os.path.dirname(__file__) + "\\database\\dbuser.db"
+    path = os.path.dirname(__file__) + "/database/dbuser.db"
     con = lite.connect(path)
     with con:
 
@@ -40,7 +40,7 @@ def selectall(query):
     con = None
     
     try:
-        path = os.path.dirname(__file__) + "\\database\\dbuser.db"
+        path = os.path.dirname(__file__) + "/database/dbuser.db"
         con = lite.connect(path)
         
         cur = con.cursor()    
@@ -66,7 +66,6 @@ def select(query):
     try:
         path = os.path.dirname(__file__) + "/database/dbuser.db"
         con = lite.connect(path)
-        
         cur = con.cursor()    
         cur.execute(query)
         while True:
@@ -86,7 +85,7 @@ def select(query):
 
 
 def update(query):
-    path = os.path.dirname(__file__) + "\\database\\dbuser.db"
+    path = os.path.dirname(__file__) + "/database/dbuser.db"
     con = lite.connect(path) 
     
     with con:
@@ -216,7 +215,7 @@ async def rank(cxt):
         username = str(cxt.author).split('#')[0]
     path = os.path.dirname(__file__) + '/img/'
     path_font = os.path.dirname(__file__) 
-
+    print(1)
     path_img = path + "bg1.jpg"
     path_border = path + f"{lvlborder}0.png"
     path_font = path_font + '/font11.ttf'
@@ -408,5 +407,9 @@ async def board(ctx):
 
     file = File(fp=background.image_bytes, filename='card.png')
     await ctx.send(file = file)
-    
+
+@bot.command(pass_context=True)
+async def status(self, ctx):
+        pass
+
 bot.run(TOKEN)

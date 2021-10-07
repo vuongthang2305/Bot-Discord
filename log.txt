@@ -537,3 +537,4 @@
 2021-09-16 00:53:33.176425: Member Đông Thần Đồng collect 130 exp
 2021-10-02 22:07:04.585705: Member Thiện bạch kim rách collect 110 exp
 2021-10-02 22:07:04.627708: Member Thiện bạch kim rách collect 110 exp
+2021-10-07 15:21:00.355063: lvl: Up level ID:9002
