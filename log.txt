@@ -1,0 +1,539 @@
+2021-09-11 00:34:39.578793: Add member Windows 11 Pro Max
+2021-09-11 00:35:16.934738: .exp: Buff 1000exp ID:9002
+2021-09-11 00:39:36.516145: Member Windows 11 Pro Max collect 45 exp
+2021-09-11 00:40:40.436286: Member Windows 11 Pro Max collect 45 exp
+2021-09-11 00:43:03.477840: Member Windows 11 Pro Max collect 45 exp
+2021-09-11 00:43:03.981668: Member Windows 11 Pro Max level up 12
+2021-09-11 00:43:27.387773: .setexp: Set 0 exp ID:9002
+2021-09-11 00:43:36.782986: lvl: Up level ID:9002
+2021-09-11 00:44:38.218977: Member Windows 11 Pro Max collect 5040 exp
+2021-09-11 00:45:05.484299: lvl: Up level ID:9002
+2021-09-11 00:45:12.790782: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 00:45:14.798829: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 00:45:17.379791: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 00:45:29.276336: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 00:45:35.814730: Add member Thảo Dễ Thương#2418
+2021-09-11 00:45:42.441342: Add member long (gà con)#0990
+2021-09-11 00:46:15.550424: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:01:10.692099: Add member OS Windows 10 Vip Pro No1
+2021-09-11 01:01:35.182867: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:01:47.002364: Member Thảo Dễ Thương#2418 collect 45 exp
+2021-09-11 01:37:37.387129: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:40:46.903070: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:40:54.890691: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:41:06.017154: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:41:12.145744: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:41:25.287029: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 01:41:41.484611: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 14:20:14.057490: .lvl: Up 51 level ID:9029
+2021-09-11 14:23:31.497881: lvl: Up level ID:9002
+2021-09-11 14:23:57.594483: .exp: Buff 4800exp ID:9002
+2021-09-11 14:24:05.959034: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:24:06.365359: Member Windows 11 Pro Max level up 51
+2021-09-11 14:25:10.431578: lvl: Up level ID:9002
+2021-09-11 14:25:32.543543: .exp: Buff 4000exp ID:9002
+2021-09-11 14:25:40.967918: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:25:47.784657: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:25:48.168420: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:25:50.416673: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:25:50.834575: Member Windows 11 Pro Max level up 52
+2021-09-11 14:29:51.803730: Member Thảo Dễ Thương collect 90 exp
+2021-09-11 14:30:31.065550: Member Windows 11 Pro Max collect 300 exp
+2021-09-11 14:30:51.088544: Member Windows 11 Pro Max collect 300 exp
+2021-09-11 14:33:03.493145: lvl: Up level ID:9002
+2021-09-11 14:33:13.164925: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:33:26.949682: .exp: Buff 5285exp ID:9002
+2021-09-11 14:33:27.399462: Member Windows 11 Pro Max level up 50
+2021-09-11 14:34:18.366871: lvl: Up level ID:9002
+2021-09-11 14:34:31.907644: .exp: Buff 49exp ID:9002
+2021-09-11 14:34:45.906365: lvl: Up level ID:9002
+2021-09-11 14:34:53.736094: .exp: Buff 4800exp ID:9002
+2021-09-11 14:34:57.702527: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:34:58.148856: Member Windows 11 Pro Max level up 51
+2021-09-11 14:36:13.221863: lvl: Up level ID:9002
+2021-09-11 14:36:13.258262: lvl: Up level ID:9002
+2021-09-11 14:36:40.786882: .exp: Buff 4800exp ID:9002
+2021-09-11 14:36:43.560611: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:38:15.352149: lvl: Up level ID:9002
+2021-09-11 14:38:45.353950: .exp: Buff 4800exp ID:9002
+2021-09-11 14:38:50.765852: Member Windows 11 Pro Max collect 285 exp
+2021-09-11 14:38:51.102166: Member Windows 11 Pro Max level up 50
+2021-09-11 16:27:58.886527: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:28:02.520446: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:28:43.421571: Add member Thiện bạch kim rách
+2021-09-11 16:28:45.632547: Member Thiện bạch kim rách collect 45 exp
+2021-09-11 16:29:07.291883: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:29:36.757831: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:30:12.147011: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:30:50.115833: Member Thiện bạch kim rách collect 45 exp
+2021-09-11 16:30:55.534663: Member Thiện bạch kim rách collect 45 exp
+2021-09-11 16:30:55.992247: Member Thiện bạch kim rách level up 2
+2021-09-11 16:31:07.144437: Member Thiện bạch kim rách collect 50 exp
+2021-09-11 16:31:36.392651: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:33:45.433545: Member Thiện bạch kim rách collect 50 exp
+2021-09-11 16:34:05.948604: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:35:41.042186: Member Thiện bạch kim rách collect 50 exp
+2021-09-11 16:35:52.645293: Member Thiện bạch kim rách collect 50 exp
+2021-09-11 16:35:53.108908: Member Thiện bạch kim rách level up 3
+2021-09-11 16:36:07.503980: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:54:34.502292: Member Thiện bạch kim rách collect 55 exp
+2021-09-11 16:54:42.052649: Member Thiện bạch kim rách collect 55 exp
+2021-09-11 16:56:43.988277: Member Windows 11 Pro Max collect 290 exp
+2021-09-11 16:57:43.222075: .lvl: Up 11 level ID:4095
+2021-09-12 21:20:14.764915: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:20:19.845286: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:20:26.047336: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:20:26.720981: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:20:34.469389: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:20:39.426753: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:20:40.857355: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:20:47.033810: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:20:51.800037: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:20:54.234719: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:20:57.207321: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:20:58.339323: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:21:13.977250: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:21:20.853789: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:21:23.057596: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:21:23.743658: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:21:27.705323: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:21:34.993632: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:21:44.362906: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:21:50.812151: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:21:55.073335: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:22:37.544026: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:22:47.829195: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:23:07.944348: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:23:16.581252: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:24:00.170191: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:24:37.197864: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:24:42.886521: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:24:46.286647: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:24:47.725301: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:24:50.465681: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:03.106525: Member Thảo Dễ Thương collect 90 exp
+2021-09-12 21:27:03.761576: Member Thảo Dễ Thương level up 11
+2021-09-12 21:27:10.353376: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:10.933420: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:27:15.349306: Member Đông Thần Đồng collect 95 exp
+2021-09-12 21:27:15.849636: Member Đông Thần Đồng level up 12
+2021-09-12 21:27:19.466653: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:20.671255: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:27.937713: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:27:29.048308: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:27:32.404187: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:39.217245: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:27:50.112367: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:27:52.430239: Member Thiện bạch kim rách collect 95 exp
+2021-09-12 21:27:53.087364: Member Thiện bạch kim rách level up 12
+2021-09-12 21:28:03.022403: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:28:03.943384: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:28:11.350527: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:28:23.520732: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:28:31.595758: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:28:51.498061: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:29:09.306345: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:30:42.979282: Member Thảo Dễ Thương collect 95 exp
+2021-09-12 21:30:44.856277: .lvl: Up 50 level ID:2418
+2021-09-12 21:30:55.609464: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:30:57.749234: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:31:00.404555: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:31:00.411554: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:31:03.279544: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:31:08.967381: Member Windows 11 Pro Max collect 290 exp
+2021-09-12 21:31:09.338394: Member Windows 11 Pro Max level up 51
+2021-09-12 21:31:18.126358: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:31:18.978519: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:31:48.656840: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:31:56.128394: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:32:04.240858: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:32:17.491414: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:32:49.698396: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:32:58.308357: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:33:04.895401: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:33:14.118401: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:33:14.210408: Member Đông Thần Đồng collect 100 exp
+2021-09-12 21:33:14.764404: Member Đông Thần Đồng level up 13
+2021-09-12 21:33:19.889859: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:34:25.494034: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:34:47.232986: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:35:06.010363: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:35:18.819411: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:35:32.314099: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:35:35.317421: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:35:37.668413: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:35:40.599254: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:35:50.188209: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:36:00.897406: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:36:05.843389: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:36:23.666519: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:36:29.989324: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:36:33.681896: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:36:43.180425: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:36:53.207867: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:36:54.442885: Member Thiện bạch kim rách collect 100 exp
+2021-09-12 21:37:12.363561: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:37:48.668837: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:37:50.974941: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:38:05.496766: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:38:20.722555: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:38:36.246237: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:39:25.568919: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:40:32.960118: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:40:51.107975: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:41:03.136466: Member Đông Thần Đồng collect 105 exp
+2021-09-12 21:41:03.883011: Member Đông Thần Đồng level up 14
+2021-09-12 21:41:03.954017: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:41:07.782547: Member Đông Thần Đồng collect 110 exp
+2021-09-12 21:41:25.684527: Member Windows 11 Pro Max collect 295 exp
+2021-09-12 21:41:34.750353: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:42:14.182388: Member Thảo Dễ Thương collect 290 exp
+2021-09-12 21:42:43.143766: Member Đông Thần Đồng collect 110 exp
+2021-09-12 21:43:04.512996: Member Thảo Dễ Thương collect 290 exp
+2021-09-13 12:46:53.672537: Member Windows 11 Pro Max collect 295 exp
+2021-09-13 12:47:54.271091: Member Windows 11 Pro Max collect 295 exp
+2021-09-13 12:48:00.910611: Member Windows 11 Pro Max collect 295 exp
+2021-09-13 12:48:03.821011: Member Windows 11 Pro Max collect 295 exp
+2021-09-13 12:48:04.451616: Member Windows 11 Pro Max level up 52
+2021-09-13 12:48:07.971972: Member Windows 11 Pro Max collect 300 exp
+2021-09-13 21:25:16.821378: Member Nguyễn Tài collect 70 exp
+2021-09-13 21:25:55.943602: Member Windows 11 Pro Max collect 300 exp
+2021-09-13 21:59:51.568553: Member long (gà con) collect 85 exp
+2021-09-14 09:07:15.705073: Member Windows 11 Pro Max collect 300 exp
+2021-09-14 09:07:46.809656: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:08:06.914028: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:08:20.085406: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:08:29.590991: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:08:47.310958: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:08:59.785940: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:09:05.213079: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:09:11.249674: Member Đông Thần Đồng collect 110 exp
+2021-09-14 09:10:21.655823: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:55:51.344544: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:57:35.042773: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:57:49.273474: Add member Min
+2021-09-15 07:57:54.693710: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:58:06.980057: Member Min collect 45 exp
+2021-09-15 07:58:16.669481: Member Min collect 45 exp
+2021-09-15 07:58:18.243076: Member Min collect 45 exp
+2021-09-15 07:58:18.641399: Member Min level up 2
+2021-09-15 07:58:22.996951: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:58:23.779533: Member Min collect 50 exp
+2021-09-15 07:58:24.169426: Member Min collect 50 exp
+2021-09-15 07:58:24.490261: Member Min collect 50 exp
+2021-09-15 07:58:24.865594: Member Min collect 50 exp
+2021-09-15 07:58:25.434277: Member Min collect 55 exp
+2021-09-15 07:58:25.455414: Member Min level up 3
+2021-09-15 07:58:25.822312: Member Min collect 55 exp
+2021-09-15 07:58:26.160139: Member Min collect 55 exp
+2021-09-15 07:58:26.578866: Member Min collect 55 exp
+2021-09-15 07:58:31.311762: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:58:32.532312: Member Min collect 55 exp
+2021-09-15 07:58:32.853702: Member Min level up 4
+2021-09-15 07:58:36.167949: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:58:36.636726: Member Min collect 60 exp
+2021-09-15 07:58:37.688561: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:58:41.159048: Member Min collect 60 exp
+2021-09-15 07:58:41.510873: Member Min collect 60 exp
+2021-09-15 07:58:41.863330: Member Min collect 60 exp
+2021-09-15 07:58:42.216148: Member Min collect 60 exp
+2021-09-15 07:58:42.628441: Member Min collect 60 exp
+2021-09-15 07:58:43.067334: Member Min collect 60 exp
+2021-09-15 07:58:43.385237: Member Min level up 5
+2021-09-15 07:58:43.441305: Member Min collect 65 exp
+2021-09-15 07:58:43.774930: Member Min collect 65 exp
+2021-09-15 07:58:44.700323: Member Min collect 65 exp
+2021-09-15 07:58:45.099439: Member Min collect 65 exp
+2021-09-15 07:58:45.450709: Member Min collect 65 exp
+2021-09-15 07:58:46.041381: Member Min collect 65 exp
+2021-09-15 07:58:50.122740: Member Min collect 65 exp
+2021-09-15 07:58:57.681782: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:59:08.800420: Member Min collect 65 exp
+2021-09-15 07:59:09.115781: Member Min level up 6
+2021-09-15 07:59:18.555210: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 07:59:29.801274: Member Min collect 70 exp
+2021-09-15 07:59:38.242748: Member Min collect 70 exp
+2021-09-15 07:59:45.716826: Member Min collect 70 exp
+2021-09-15 07:59:56.260924: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 08:00:03.714586: Member Min collect 70 exp
+2021-09-15 08:00:05.428881: Member Min collect 70 exp
+2021-09-15 08:00:05.865340: Member Min collect 70 exp
+2021-09-15 08:00:06.256095: Member Min collect 70 exp
+2021-09-15 08:00:06.640269: Member Min collect 70 exp
+2021-09-15 08:00:07.062388: Member Min collect 75 exp
+2021-09-15 08:00:07.119800: Member Min level up 7
+2021-09-15 08:00:07.425822: Member Min collect 75 exp
+2021-09-15 08:00:07.756177: Member Min collect 75 exp
+2021-09-15 08:00:08.135803: Member Min collect 75 exp
+2021-09-15 08:00:08.480480: Member Min collect 75 exp
+2021-09-15 08:00:12.608655: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 08:00:14.024830: Member Min collect 75 exp
+2021-09-15 08:00:14.414173: Member Min collect 75 exp
+2021-09-15 08:00:14.735575: Member Min collect 75 exp
+2021-09-15 08:00:15.065289: Member Min collect 75 exp
+2021-09-15 08:00:15.394677: Member Min collect 75 exp
+2021-09-15 08:00:15.716954: Member Min collect 80 exp
+2021-09-15 08:00:15.718955: Member Min level up 8
+2021-09-15 08:00:16.167096: Member Min collect 80 exp
+2021-09-15 08:00:17.003086: Member Min collect 80 exp
+2021-09-15 08:00:17.465183: Member Min collect 80 exp
+2021-09-15 08:00:17.948554: Member Min collect 80 exp
+2021-09-15 08:00:29.965461: Member Min collect 80 exp
+2021-09-15 08:00:31.091835: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 08:00:55.980030: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 08:01:04.944434: Member Min collect 80 exp
+2021-09-15 08:01:10.469709: Member Windows 11 Pro Max collect 300 exp
+2021-09-15 08:01:11.308487: Member Windows 11 Pro Max level up 53
+2021-09-15 08:01:23.370605: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:01:41.226691: Member Min collect 80 exp
+2021-09-15 08:01:50.986083: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:02:01.150528: Member Min collect 80 exp
+2021-09-15 08:02:08.134868: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:02:10.171813: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:02:18.256317: Member Min collect 80 exp
+2021-09-15 08:02:18.690813: Member Min level up 9
+2021-09-15 08:02:19.980613: .exp: Buff 1060 exp ID:4065
+2021-09-15 08:02:20.363323: Member Windows 11 Pro Max level up 10
+2021-09-15 08:02:51.754430: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:02:56.417816: Member Min collect 90 exp
+2021-09-15 08:02:57.640969: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:03:00.587519: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:03:03.428673: Member Min collect 90 exp
+2021-09-15 08:03:07.860446: Member Min collect 90 exp
+2021-09-15 08:03:12.954305: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:03:19.793149: Member Min collect 90 exp
+2021-09-15 08:03:28.376335: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:03:44.568535: Member Min collect 90 exp
+2021-09-15 08:03:49.708190: Member Min collect 90 exp
+2021-09-15 08:03:53.221650: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:04:20.314777: Member Min collect 500040 exp
+2021-09-15 08:04:20.656473: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:05:11.361269: Member Min collect 500040 exp
+2021-09-15 08:05:34.504801: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:05:41.419849: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:05:45.022896: Member Min collect 500040 exp
+2021-09-15 08:06:06.229913: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:07:23.169716: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:07:32.352647: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:07:35.820199: Member Min collect 90 exp
+2021-09-15 08:07:40.219470: Member Windows 11 Pro Max collect 305 exp
+2021-09-15 08:07:40.322987: Member Min collect 90 exp
+2021-09-15 08:07:40.702702: Member Windows 11 Pro Max level up 54
+2021-09-15 08:07:41.978914: Member Min collect 90 exp
+2021-09-15 08:07:49.378862: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:07:54.282650: Member Min collect 90 exp
+2021-09-15 08:07:54.746005: Member Min collect 90 exp
+2021-09-15 08:07:57.176126: Member Min collect 90 exp
+2021-09-15 08:08:05.875683: Member Min collect 90 exp
+2021-09-15 08:08:09.526709: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:08:27.401117: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:08:28.575504: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:08:49.515893: Member Min collect 90 exp
+2021-09-15 08:09:02.257892: Member Min collect 90 exp
+2021-09-15 08:09:25.192398: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:10:51.578654: Member Min collect 90 exp
+2021-09-15 08:11:06.640138: Member Min collect 90 exp
+2021-09-15 08:11:06.774098: Member Min collect 95 exp
+2021-09-15 08:11:07.264186: Member Min level up 11
+2021-09-15 08:11:13.014151: Member Min collect 95 exp
+2021-09-15 08:11:16.964978: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:21.160486: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:25.107208: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:29.551691: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:38.005377: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:47.206801: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:48.726540: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:54.008673: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:11:58.094613: Member Min collect 95 exp
+2021-09-15 08:12:14.851981: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:12:26.740959: Member Min collect 95 exp
+2021-09-15 08:12:29.695460: Member Min collect 95 exp
+2021-09-15 08:12:35.802758: Member Min collect 95 exp
+2021-09-15 08:12:42.008250: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:12:47.862374: Member Min collect 95 exp
+2021-09-15 08:12:54.503274: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:14:11.442800: Member Min collect 95 exp
+2021-09-15 08:14:25.135648: Member Min collect 95 exp
+2021-09-15 08:15:37.667538: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:15:45.242307: Member Windows 11 Pro Max collect 310 exp
+2021-09-15 08:15:45.671815: Member Windows 11 Pro Max level up 55
+2021-09-15 08:15:54.176902: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:16:04.369722: Member Min collect 95 exp
+2021-09-15 08:16:08.873518: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:16:19.150075: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:16:33.596180: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:16:41.630378: Member Min collect 95 exp
+2021-09-15 08:16:42.180092: Member Min level up 12
+2021-09-15 08:16:52.647839: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:17:08.536282: Member Min collect 100 exp
+2021-09-15 08:17:33.606385: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:17:48.585804: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:18:05.482593: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:18:27.959267: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:18:56.061738: Member Min collect 100 exp
+2021-09-15 08:19:57.604895: .exp: Buff 305 exp ID:4065
+2021-09-15 08:20:29.771773: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:20:34.917055: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 08:21:48.947244: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:23:08.516896: Member Min collect 100 exp
+2021-09-15 15:24:02.918953: Member Đông Thần Đồng collect 110 exp
+2021-09-15 15:24:07.892065: Member Đông Thần Đồng collect 110 exp
+2021-09-15 15:24:13.314894: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:24:15.578614: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:24:26.049609: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:24:30.186392: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:24:39.065028: Member Đông Thần Đồng collect 110 exp
+2021-09-15 15:24:40.017042: Member Đông Thần Đồng level up 15
+2021-09-15 15:24:40.263275: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:24:41.010828: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:24:48.758654: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:24:53.771458: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:24:59.357318: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:25:02.012845: Member Windows 11 Pro Max collect 315 exp
+2021-09-15 15:25:02.422121: Member Windows 11 Pro Max level up 56
+2021-09-15 15:25:11.058124: Member Windows 11 Pro Max collect 320 exp
+2021-09-15 15:25:40.935216: Member Windows 11 Pro Max collect 320 exp
+2021-09-15 15:25:55.563975: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:26:02.722754: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:26:03.659271: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:26:09.774590: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:26:15.977883: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:26:22.249562: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:26:27.707564: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:26:27.943532: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:26:30.075855: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:26:46.402199: Member Windows 11 Pro Max collect 320 exp
+2021-09-15 15:26:47.805229: Member Windows 11 Pro Max collect 320 exp
+2021-09-15 15:27:24.610123: Member Thảo Dễ Thương collect 290 exp
+2021-09-15 15:27:25.057796: Member Thảo Dễ Thương level up 51
+2021-09-15 15:27:35.993977: Member Thảo Dễ Thương collect 295 exp
+2021-09-15 15:28:07.942066: Member Windows 11 Pro Max collect 320 exp
+2021-09-15 15:28:27.761139: Member Min collect 100 exp
+2021-09-15 15:28:31.396981: Member Min collect 100 exp
+2021-09-15 15:28:36.510905: Member Min collect 100 exp
+2021-09-15 15:28:38.246930: Member Min collect 100 exp
+2021-09-15 15:28:56.872642: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:30:56.389773: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:31:01.104979: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:31:05.828518: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:31:33.088616: Member Thảo Dễ Thương collect 295 exp
+2021-09-15 15:31:57.079776: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:32:00.266336: Member Nguyễn Tài collect 70 exp
+2021-09-15 15:32:02.071465: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:32:13.861962: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:32:24.076116: Member Thảo Dễ Thương collect 295 exp
+2021-09-15 15:32:35.068581: Member Đông Thần Đồng collect 115 exp
+2021-09-15 15:32:35.635603: Member Đông Thần Đồng level up 16
+2021-09-15 15:32:43.088652: Member Đông Thần Đồng collect 120 exp
+2021-09-15 15:33:20.938418: Member Nguyễn Tài collect 70 exp
+2021-09-15 15:33:20.969209: Member Thảo Dễ Thương collect 295 exp
+2021-09-15 15:33:22.314871: Member Thảo Dễ Thương collect 295 exp
+2021-09-15 15:33:28.384854: Member Thiện bạch kim rách collect 100 exp
+2021-09-15 15:33:29.762319: Member Thiện bạch kim rách collect 100 exp
+2021-09-15 15:33:46.958814: Member Đông Thần Đồng collect 120 exp
+2021-09-15 15:33:51.942658: Member Đông Thần Đồng collect 120 exp
+2021-09-15 15:34:00.539011: Member Thiện bạch kim rách collect 100 exp
+2021-09-15 15:34:02.294577: Member Thiện bạch kim rách collect 100 exp
+2021-09-15 15:37:56.056864: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:04:26.454626: Member Thiện bạch kim rách collect 100 exp
+2021-09-16 00:04:42.264976: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:04:56.326234: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:04:58.742359: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:02.177334: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:03.922180: Member Thiện bạch kim rách collect 100 exp
+2021-09-16 00:05:04.356469: Member Thiện bạch kim rách level up 13
+2021-09-16 00:05:08.754937: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:14.271271: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:05:24.440106: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:05:35.603923: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:05:38.214045: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:40.051146: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:48.004917: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:05:48.682451: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:05:54.212250: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:06:04.017555: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:06:05.103138: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:06:24.825106: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:06:52.014951: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:07:02.895792: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:09:48.161284: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:09:55.122702: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:10:15.999416: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:10:23.455684: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:10:36.782680: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:10:47.140929: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:11:00.011884: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:11:04.201635: Member Đông Thần Đồng collect 120 exp
+2021-09-16 00:11:04.711257: Member Đông Thần Đồng level up 17
+2021-09-16 00:11:22.445222: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:11:27.656653: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:11:45.556400: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:11:45.892380: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:11:51.237238: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:11:57.496105: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:12:05.152675: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:12:13.665532: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:13:26.808299: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:13:27.900587: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:14:52.308699: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:15:06.210448: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:15:11.192540: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:22:27.533311: Member Thảo Dễ Thương collect 295 exp
+2021-09-16 00:22:28.158812: Member Thảo Dễ Thương level up 52
+2021-09-16 00:22:33.753868: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:22:46.180294: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:22:56.441534: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:23:06.623565: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:23:12.737376: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:23:18.545135: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:23:24.510801: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:23:26.746157: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:23:41.907340: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:23:50.764398: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:23:53.585320: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:24:26.045816: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:24:29.076628: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:24:32.344890: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:24:35.951239: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:24:38.701809: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:24:52.516180: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:24:58.362137: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:25:00.929587: Member Đông Thần Đồng collect 125 exp
+2021-09-16 00:25:01.328919: Member Đông Thần Đồng level up 18
+2021-09-16 00:25:06.796215: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:25:21.034207: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:25:27.595598: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:26:33.570791: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:26:36.732801: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:26:41.601328: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:26:49.419160: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:27:40.491946: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:28:07.128892: Member Thảo Dễ Thương collect 300 exp
+2021-09-16 00:34:20.261530: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:39:35.201327: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:42:15.326628: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:42:31.813920: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:42:57.240596: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:43:07.862658: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:43:51.710932: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:44:21.432544: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:44:41.432492: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:45:01.150161: Member Nguyễn Tài collect 70 exp
+2021-09-16 00:45:01.540069: Member Nguyễn Tài level up 7
+2021-09-16 00:45:27.818051: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:45:51.559589: Member Nguyễn Tài collect 75 exp
+2021-09-16 00:45:58.207794: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:46:05.275779: Member Thiện bạch kim rách collect 105 exp
+2021-09-16 00:46:05.731785: Member Thiện bạch kim rách level up 14
+2021-09-16 00:46:08.352189: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:46:19.708752: Member Nguyễn Tài collect 75 exp
+2021-09-16 00:46:24.712528: Member Thiện bạch kim rách collect 110 exp
+2021-09-16 00:46:30.071069: Member Thiện bạch kim rách collect 110 exp
+2021-09-16 00:46:32.151512: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:46:33.665833: Member Nguyễn Tài collect 75 exp
+2021-09-16 00:46:39.657397: Member Thiện bạch kim rách collect 110 exp
+2021-09-16 00:48:46.166458: Member Đông Thần Đồng collect 130 exp
+2021-09-16 00:49:12.491686: Member Windows 11 Pro Max collect 320 exp
+2021-09-16 00:53:33.176425: Member Đông Thần Đồng collect 130 exp
+2021-10-02 22:07:04.585705: Member Thiện bạch kim rách collect 110 exp
+2021-10-02 22:07:04.627708: Member Thiện bạch kim rách collect 110 exp
