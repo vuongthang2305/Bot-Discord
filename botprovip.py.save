@@ -215,9 +215,10 @@ async def rank(cxt):
         username = str(cxt.author).split('#')[0]
     path = os.path.dirname(__file__) + '/img/'
     path_font = os.path.dirname(__file__) 
+    print(1)
     path_img = path + "bg1.jpg"
     path_border = path + f"{lvlborder}0.png"
-    path_font = path_font + '/font11.ttf'
+	    path_font = path_font + '/font11.ttf'
     # if id == '3010':
     #     path_img = "./img/bgdong.jpg"
 
@@ -381,7 +382,7 @@ async def board(ctx):
     if level >= 50:
         border = Editor(path + "/img/50.png").resize((300,300))
     else:
-        border = Editor(path + f"/img/{lvlborder}0.png").resize((300,300))
+        border = Editor(path + "/img/{lvlborder}.png").resize((300,300))
 
     profile = await load_image_async(str(ctx.author.avatar_url)) # lấy avr
     profile = Editor(profile).resize((180, 180)).circle_image()
